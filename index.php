@@ -19,7 +19,7 @@ if(isset($arrayRutas[$url])){
     //Si $ruta es la base de la url, /es, /eu, establecemos que $ruta sea inicio
     //Así carga las claves-valor de la url de inicio del json
     if(in_array($ruta, $langs)){
-        $ruta = "inicio";
+        $ruta = "inicio"; 
     }
 
     //Extraemos del json todas las claves valores de esa ruta, ya en variables php
