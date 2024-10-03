@@ -19,6 +19,10 @@ return[
     '/es/servicios-web/marketing-rrss-sem' => './php/vistas/servicio.php',
     '/es/servicios-web/diseño-imagen-corporativa' => './php/vistas/servicio.php',
     '/es/servicios-web/diseño-imagen-corporativa/logotipos' => './php/vistas/servicio.php',
+
+    '/es/casos-de-exito' => './php/vistas/expertise.php', 
+    '/en/success-stories' => './php/vistas/expertise.php',
+    '/eu/arrakasta-istorioak' => './php/vistas/expertise.php',
     
 ];
 ?>
