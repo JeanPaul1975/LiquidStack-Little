@@ -5,11 +5,38 @@
         "url1":"web-services",
         "url1Text": "Web Services",
 
+        "url1a":"web-services/seo-positioning",
+        "url1aText": "SEO Positioning",
+
+        "url1b":"web-services/multiplatform-applications",
+        "url1bText": "Multiplatform applications",
+
+        "url1c":"web-services/native-web-development",
+        "url1cText": "Native web development",
+
+        "url1d":"web-services/corporate-image-design",
+        "url1dText": "Corporate image design",
+
+        "url1e":"web-services/digital-marketing-rrss-sem",
+        "url1eText": "Digital marketing rrss-sem",
+
         "url2":"contact",
         "url2Text": "Contact",
         
         "url3":"success-stories",
-        "url3Text": "Success stories"
+        "url3Text": "Success stories",
+
+        "col_01":"Content of this website",
+        "col_02":"Select your language",
+        "col_03":"Other services",
+        "col_04":"More information",
+        "col_05":"infoda | Training and employment in Euskal Herria",
+        "col_06":"orduda | Application of transfers and labor conciliation",
+        "col_07":"Follow us on social networks",
+        "col_08":"Contact",
+        "col_09":"Name",
+        "col_10":"Mail",
+        "col_11":"Subscribe"
     },
     "inicio": {
         "title": "WEBDA | Digital solutions for businesses",
@@ -17,8 +44,8 @@
         "h1": "Digital solutions for businesses",
         "txt1":"Hi header h2",
         "boton1":"More Info",
-        "txt_02":"Versión del loren en INGLES",
-        "txt_03":"Versión del loren en INGLES"
+        "txt_02":"This is some random content that I have posted for this section",
+        "txt_03":"This is some random content that I have put up for this section. It's a little longer than the previous one"
     },
     "seo-positioning": {
         "title": "SEO POSITIONING",

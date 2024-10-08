@@ -589,6 +589,7 @@ footer .megamenu {
   overflow: scroll;
   position: static;
   background-color: initial;
+  pointer-events: initial;
   padding: 0 1.5rem;
 }
 @media only screen and (min-width: 1350px) {
@@ -597,6 +598,9 @@ footer .megamenu {
   }
 }
 footer .megamenu::-webkit-scrollbar {
+  display: none;
+}
+footer .megamenu .idiomas {
   display: none;
 }
 footer > :nth-child(3) {

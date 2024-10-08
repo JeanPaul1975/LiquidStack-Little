@@ -5,11 +5,39 @@
         "url1":"web-zerbitzuak",
         "url1Text": "Web Zerbitzuak",
 
+        "url1a":"web-zerbitzuak/seo-posizionamendua",
+        "url1aText": "SEO Posizionamendua",
+
+        "url1b":"web-zerbitzuak/aplikazio-multiplataforma",
+        "url1bText": "Aplikazio multiplataforma",
+
+        "url1c":"web-zerbitzuak/web-garapena-natiboa",
+        "url1cText": "Web garapena natiboa",
+
+        "url1d":"web-zerbitzuak/irudi-korporatibo-diseinua",
+        "url1dText": "Irudi korporatibo diseinua",
+
+        "url1e":"web-zerbitzuak/marketina-rrss-sem",
+        "url1eText": "Marketina rrss sem",
+
+
         "url2":"kontaktatu",
         "url2Text": "Kontaktatu",  
         
-         "url3":"arrakasta-istorioak",
-        "url3Text": "Arrakasta istorioak"
+        "url3":"arrakasta-istorioak",
+        "url3Text": "Arrakasta istorioak",
+
+        "col_01":"Webgune honen edukia",
+        "col_02":"Hautatu zure hizkuntza",
+        "col_03":"Beste zerbitzu batzuk",
+        "col_04":"Informazio gehiago",
+        "col_05":"infoda | Prestakuntza eta enplegua Euskal Herrian",
+        "col_06":"orduda | Eskualdaketak eta lan kontziliazioa aplikatzea",
+        "col_07":"Jarrai gaitzazu sare sozialetan",
+        "col_08":"Kontaktua",
+        "col_09":"Izena",
+        "col_10":"Correo electrónico",
+        "col_11":"Harpidetu"
     },
     "inicio": {
         "title": "WEBDA | Enpresentzako irtenbide digitalak",
@@ -17,8 +45,8 @@
         "h1": "Enpresentzako irtenbide digitalak",
         "txt1":"Kaixo h2",
         "boton1":"Informazio geio",
-        "txt_02":"Versión del loren en EUSKERA",
-        "txt_03":"Versión del loren en EUSKERA"
+        "txt_02":"Atal honetarako argitaratu ditudan ausazko eduki batzuk dira",
+        "txt_03":"Atal honetarako jarri ditudan ausazko eduki batzuk dira. Aurrekoa baino pixka bat luzeagoa da"
     },
     "seo-posizionamendua": {
         "title": "SEO POSIZIONAMENDUA",

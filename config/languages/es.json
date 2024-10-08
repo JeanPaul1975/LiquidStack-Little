@@ -5,11 +5,42 @@
         "url1":"servicios-web",
         "url1Text": "Servicios Web",
 
+        "url1a":"servicios-web/posicionamiento-seo",
+        "url1aText": "Posicionamiento SEO",
+
+        "url1b":"servicios-web/aplicaciones-multiplataforma",
+        "url1bText": "Aplicaciones multiplataforma",
+
+        "url1c":"servicios-web/desarrollo-web-nativo",
+        "url1cText": "Desarrollo web nativo",
+
+        "url1d":"servicios-web/diseño-imagen-corporativa",
+        "url1dText": "Diseño imagen corporativa",
+
+        "url1e":"servicios-web/marketing-rrss-sem",
+        "url1eText": "Marketing rrss sem",
+
         "url2":"contactar",
         "url2Text": "Contacto", 
         
         "url3":"casos-de-exito",
-        "url3Text": "Casos de éxito"
+        "url3Text": "Casos de éxito",
+
+        "col_01":"Contenido de esta web",
+        "col_02":"Selecciona tu idioma",
+        "col_03":"Otros servicios",
+        "col_04":"Más información",
+        "col_05":"infoda | Formación y empleo en Euskal Herria",
+        "col_06":"orduda | Aplicación de fichajes y conciliación laboral",
+        "col_07":"Síguenos en redes sociales",
+        "col_08":"Contacto",
+        "col_09":"Nombre",
+        "col_10":"Correo electrónico",
+        "col_11":"Suscribirme"
+
+        
+        
+
     },
     "inicio":{
         "title": "WEBDA | Soluciones digitales para empresas",
@@ -17,8 +48,8 @@
         "h1":"Soluciones digitales para empresa",
         "txt1":"Encabezado h2 hola",
         "boton1":"Más Info",
-        "txt_02":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae consequuntur consequatur minus ratione, excepturi magnam rem beatae quis",
-        "txt_03":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis in ipsam at minima necessitatibus sapiente sequi dicta nam magnam blanditiis."
+        "txt_02":"Este es un contenido aleatorio que he puesto para esta sección",
+        "txt_03":"Este es un contenido aleatorio que he puesto para esta sección. Es un poco más largo que el anterior"
     },
     "posicionamiento-seo":{
         "title": "POSICIONAMIENTO SEO",

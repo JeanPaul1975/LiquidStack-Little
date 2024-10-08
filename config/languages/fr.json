@@ -1,0 +1,87 @@
+{    
+    "global":{
+        "url0Text": "Commencer",
+
+        "url1":"services-web",
+        "url1Text": "Services Web",
+
+        "url1a":"services-web/positionnement-seo",
+        "url1aText": "Positionnement seo",
+
+        "url1b":"services-web/applications-multiplateformes",
+        "url1bText": "Applications multiplateformes",
+
+        "url1c":"services-web/développement-web-natif",
+        "url1cText": "Développement web natif",
+
+        "url1d":"services-web/conception-image-dentreprise",
+        "url1dText": "Conception image dentreprise",
+
+        "url1e":"services-web/marketing-rrss-sem",
+        "url1eText": "Marketing rrss sem",
+
+        "url2":"contact",
+        "url2Text": "Contact", 
+        
+        "url3":"histoires-de-réussite",
+        "url3Text": "Histoires de réussite",
+
+        "col_01":"Contenu de ce site Web",
+        "col_02":"Sélectionnez votre langue",
+        "col_03":"Autres prestations",
+        "col_04":"Plus d'informations",
+        "col_05":"infoda | Formation et emploi en Euskal Herria",
+        "col_06":"orduda | Application des transferts et conciliation du travail",
+        "col_07":"Suivez-nous sur les réseaux sociaux",
+        "col_08":"Contact",
+        "col_09":"Nom",
+        "col_10":"E-mail",
+        "col_11":"S'abonner"
+    },
+    "inicio":{
+        "title": "WEBDA | Solutions numériques pour les entreprises",
+        "description":"Solutions digitales pour les entreprises : développement web natif, positionnement SEO, campagnes SEM, marketing digital et image corporate.",
+        "h1":"Solutions numériques pour les entreprises",
+        "txt1":"en-tête h2 bonjour",
+        "boton1":"Plus d'informations",
+        "txt_02":"Il s'agit d'un contenu aléatoire que j'ai publié pour cette section",
+        "txt_03":"Il s'agit d'un contenu aléatoire que j'ai mis en place pour cette section. C'est un peu plus long que le précédent"
+    },
+    "positionnement-seo":{
+        "title": "POSITIONNEMENT SEO",
+        "description":"Le meilleur positionnement SEO pour votre site internet ou votre application. Nous sommes des professionnels du positionnement web organique.",
+        "h1": "C'est le h1 du positionnement SEO"
+    },
+    "applications-multiplateformes":{
+        "title":"DÉVELOPPEMENT D'APPLICATIONS MULTIPLATEFORMES",
+        "description":"Nous développons des applications mobiles multiplateformes. De quoi avez-vous besoin, nous le faisons.",
+        "h1": "C'est le h1 de MULTIPLATEFORM APP"
+    },
+    "développement-web-natif":{
+        "title":"DÉVELOPPEMENT WEB NATIVE ET WORDPRESS",
+        "description":"Nous proposons des services de développement web (CMS) natifs et wordpress. Le développement natif implique des sites Web avec plus de capacité et de performances. Nous allons partout où va votre besoin."
+    },
+    "conception-image-dentreprise":{
+        "title":"CONCEPTION D'IMAGE D'ENTREPRISE",
+        "description":"Nous proposons différents services de conception graphique"
+    },
+    "marketing-rrss-sem":{
+        "title":"MARKETING NUMÉRIQUE, CAMPAGNES RRSS ET SEM",
+        "description":"Nous vous proposons de porter votre campagne SEM, réseaux sociaux et marketing d'entreprise pour faire connaître votre entreprise à toutes vos clientèles cibles."
+    },
+    "services-web":{
+        "title":"Développement d'applications et de services numériques pour les entreprises",
+        "description":"Services digitaux pour entreprises : web, positionnement SEO, campagnes marketing, corporate design, applications multiplateformes"
+    },
+    "contact":{
+        "title":"Contactez-nous pour réaliser votre site internet",
+        "description":"Tous les services, emplacements, liés au contact",
+        "h1": "CONTACTEZ-NOUS"
+    },
+    "histoires-de-réussite":{
+        "title": "WEBDA | Histoires de réussite",
+        "description":"Les réussites les plus pertinentes de notre entreprise",
+        "h1":"Histoires de réussite de notre entreprise"
+        
+    }
+}

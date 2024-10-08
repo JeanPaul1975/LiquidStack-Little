@@ -345,6 +345,7 @@ footer{
         overflow: scroll;
         position: static;
         background-color: initial;
+        pointer-events: initial;
         padding: 0 1.5rem;
         @media only screen and (min-width:config.$desktop){
             &{
@@ -352,6 +353,9 @@ footer{
             }
         }
         &::-webkit-scrollbar {
+            display: none;
+        }
+        .idiomas{
             display: none;
         }
     }
